@@ -1,0 +1,7 @@
+Compile in Matlab:
+mex paretofront.c
+
+Perhaps you have to adjust the compiler settings by typing
+mex -setup
+and then choosing your favorite c compiler
+
